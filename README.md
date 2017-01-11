@@ -12,7 +12,8 @@ To install the app:
 ## Usage
 
 Until the app is hosted elsewhere, it needs to be run locally.
-You will need the API Key. It can be found in our slack team channel #botesting or by asking a contributor. 
+
+You will need the Slack API Key. It can be found in our slack team channel #botesting or by asking a contributor. 
 
 To run the bot locally: `BOT_API_KEY=APIKEYHERE node bin/bot.js`
 
@@ -20,7 +21,7 @@ With the bot running, you can now interact with it by using the keywords.
 
 ## Contributing
 
-Check out our full CONTRIBUTING guidelines at /CONTRIBUTING.md
+Check out our full CONTRIBUTING guidelines at [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## History
 
